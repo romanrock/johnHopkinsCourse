@@ -1,0 +1,10 @@
+Command Instructions for course
+
+"ls" get's the list of what is in that folder
+"cd foldername" get's you to a folder
+"cd .." navigates you back up the folder
+'browser-sync start --server --directory --files "*"'
+"git status" - tells you what changes if any are present
+"git commit -m 'message'" - requires a message
+"git push" pushes changes up to repository
+
