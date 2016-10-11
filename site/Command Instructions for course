@@ -5,6 +5,14 @@ Command Instructions for course
 "cd .." navigates you back up the folder
 'browser-sync start --server --directory --files "*"'
 "git status" - tells you what changes if any are present
+"git add ." have to add for commit before pushing
 "git commit -m 'message'" - requires a message
 "git push" pushes changes up to repository
 
+Useful Sites
+CodePen
+JSFiddler
+Css-Tricks
+Can I use - backward compatible
+Validator on w3C site
+w3c schools browser statistics
